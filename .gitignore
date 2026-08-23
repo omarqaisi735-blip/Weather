@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# SQLite database
+weather.db
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
